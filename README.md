@@ -14,3 +14,4 @@ With this driver its possible to add bitmaps and strings to the display.
 I have only tested one font, (6x8), but should be possible to use custom fonts as well.
 
 Example project: link.
+![SSD1306](https://user-images.githubusercontent.com/112856256/219875575-73381443-6cce-406e-a0ac-b424743129c3.jpg)
