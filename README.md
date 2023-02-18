@@ -1,6 +1,8 @@
 # SSD1306-OLED-DISPLAY-DRIVER
 SSD1306 OLED DISPLAY DRIVER 128x32
 
+Uses I2C.
+
 For STM32 MCU.
 Uses STM32 HAL for I2C transmitting.
 I2C event interrupts need to be enabled.
