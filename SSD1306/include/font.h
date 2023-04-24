@@ -1,10 +1,3 @@
-/*
- * SSD1306_Fonts.h
- *
- *  Created on: 17 Feb 2023
- *      Author: Admin
- */
-
 #ifndef INC_DRIVERS_FONTS_H_
 #define INC_DRIVERS_FONTS_H_
 
